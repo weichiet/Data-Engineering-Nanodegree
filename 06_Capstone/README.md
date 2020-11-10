@@ -41,4 +41,4 @@ Since the scope of the project will be highly dependent on the data, these two t
 ## Project Data
 The data that I've chosen for this project is [I94 Immigration Data](https://travel.trade.gov/research/reports/i94/historical/2016.html).This data was originated from the US National Tourism and Trade Office. The data contains international visitor arrival statistics by world regions, and select countries. The data contains the type of visa, the mode of transportation, the age groups, states visited, and the top ports of entry for immigration into the United States.
 
-The steps to complete this project are documented in [`Capstone_Project.ipynb`](./apstone_Project.ipynb) notebook.
+The steps to complete this project are documented in [`Capstone_Project.ipynb`](./Capstone_Project.ipynb) notebook.
